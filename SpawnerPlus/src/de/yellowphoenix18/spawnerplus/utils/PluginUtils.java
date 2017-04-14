@@ -1,4 +1,4 @@
-package de.yellowphoenix18.spawnersplus.utils;
+package de.yellowphoenix18.spawnerplus.utils;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
@@ -7,8 +7,8 @@ import de.yellowphoenix18.spawnerplus.SpawnerPlus;
 import de.yellowphoenix18.spawnerplus.commands.SpawnerPlusCommand;
 import de.yellowphoenix18.spawnerplus.config.MainConfig;
 import de.yellowphoenix18.spawnerplus.config.MessagesConfig;
-import de.yellowphoenix18.spawnersplus.listener.BlockListener;
-import de.yellowphoenix18.spawnersplus.listener.InventoryListener;
+import de.yellowphoenix18.spawnerplus.listener.BlockListener;
+import de.yellowphoenix18.spawnerplus.listener.InventoryListener;
 
 public class PluginUtils {
 	

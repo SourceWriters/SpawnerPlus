@@ -13,7 +13,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
 import de.yellowphoenix18.spawnerplus.config.MessagesConfig;
-import de.yellowphoenix18.spawnersplus.utils.SpawnerUtils;
+import de.yellowphoenix18.spawnerplus.utils.SpawnerUtils;
 
 public class SpawnerPlusCommand implements CommandExecutor {
 

@@ -1,4 +1,4 @@
-package de.yellowphoenix18.spawnersplus.listener;
+package de.yellowphoenix18.spawnerplus.listener;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

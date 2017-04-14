@@ -1,4 +1,4 @@
-package de.yellowphoenix18.spawnersplus.listener;
+package de.yellowphoenix18.spawnerplus.listener;
 
 import org.bukkit.GameMode;
 import org.bukkit.Material;
@@ -15,7 +15,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import de.yellowphoenix18.spawnerplus.config.MainConfig;
-import de.yellowphoenix18.spawnersplus.utils.SpawnerUtils;
+import de.yellowphoenix18.spawnerplus.utils.SpawnerUtils;
 
 public class BlockListener implements Listener {
 	

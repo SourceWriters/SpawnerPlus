@@ -1,4 +1,4 @@
-package de.yellowphoenix18.spawnersplus.utils;
+package de.yellowphoenix18.spawnerplus.utils;
 
 import java.util.ArrayList;
 import java.util.List;

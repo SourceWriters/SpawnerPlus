@@ -2,7 +2,7 @@ package de.yellowphoenix18.spawnerplus;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import de.yellowphoenix18.spawnersplus.utils.PluginUtils;
+import de.yellowphoenix18.spawnerplus.utils.PluginUtils;
 
 public class SpawnerPlus extends JavaPlugin {
 	
