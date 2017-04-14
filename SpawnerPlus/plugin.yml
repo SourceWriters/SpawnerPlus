@@ -1,0 +1,9 @@
+name: SpawnerPlus
+author: YellowPhoenix18
+version: 1.0
+
+main: de.yellowphoenix18.spawnerplus.SpawnerPlus
+
+commands:
+   sp:
+   spawnerplus:
